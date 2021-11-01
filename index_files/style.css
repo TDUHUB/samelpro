@@ -32,12 +32,12 @@
 }
 .menu-position {
   margin-top: 180px;
-  margin-left: 8%;
-  margin-right: 7%;
+  margin-left: 6%;
+  margin-right: 6%;
   background-color: #ffffff;
   border-style: double;
   border-color: #17093d;
-  padding: 5px 5px 5px 20px;
+  padding: 5px 5px 5px 30px;
 }
 .site-fon {
   background-image: url(../img/project015.jpg);
