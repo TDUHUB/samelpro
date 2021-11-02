@@ -25,7 +25,7 @@
 .menu:hover {
   background: #ffffff;
   color: #000000;
-  font-weight: bold;
+  text-shadow: 1px 1px 2px black, 0 0 1em blue;
 }
 .menu:visited {
   color: #000000;
