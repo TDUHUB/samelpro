@@ -40,7 +40,8 @@
   padding: 5px 5px 5px 30px;
 }
 .site-fon {
-  background-image: url(../img/project015.jpg);
+  background-image: url(../img/bcg1.jpg);
+  background-size: cover;
   margin-top: 30px;
   margin-bottom: 30px;
 }
