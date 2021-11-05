@@ -40,7 +40,47 @@
   padding: 5px 5px 5px 30px;
 }
 .site-fon {
+  background-image: url(../img/bcg.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.site-fon1 {
   background-image: url(../img/bcg1.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.site-fon2 {
+  background-image: url(../img/bcg2.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.site-fon3 {
+  background-image: url(../img/bcg3.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.site-fon4 {
+  background-image: url(../img/bcg4.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.site-fon5 {
+  background-image: url(../img/bcg5.jpg);
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
