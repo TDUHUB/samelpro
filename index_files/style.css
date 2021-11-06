@@ -19,7 +19,7 @@
   color: #000000;
   font-family: 'Times New Roman', Times, serif;
   font-weight: normal;
-  margin-left: 2%;
+  margin-left: 3%;
   /*margin-right: 2%;*/
 }
 .menu:hover {
@@ -37,7 +37,7 @@
   background-color: #ffffff;
   border-style: double;
   border-color: #17093d;
-  /*padding: 1% 1% 1% 2%;*/
+  padding: 1% 0% 1% 5%;
 }
 .site-fon {
   background-image: url(../img/bcg.jpg);
