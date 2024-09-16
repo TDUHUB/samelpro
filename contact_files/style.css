@@ -1,0 +1,66 @@
+.sea {
+	text-decoration: none;
+	font-size: 20px;
+	color: #091a42;
+	:font-family: Arial;
+	font-weight: bold;
+}
+.fon-menu {
+ 	background-image: url(ptichka250.png);
+ }
+.menu {
+ 	text-decoration: none;
+ 	font-size: 17px;
+ 	color: #091a42;
+ 	font-family: Arial;
+ 	font-weight: bold;
+ }
+		.menu:hover {
+		background: #B0C4DE;
+		color: #FF9B00;
+		}
+			.menu:visited {
+			color: #091a42;
+			}
+.menu-position {
+ 	margin-top: 185px;
+ 	margin-left: 465px;
+ 	margin-right: 40px;
+ 	
+ 	background-color: #F0F8FF;
+ }
+.site-fon {
+	background-color: #d1d1d1;
+ 	margin-top: 20px;
+ 	margin-bottom: 0px;
+ }
+.podval {
+ 	height: 70px;
+ 	color: #FFFFFF;
+	background-color: #555555;
+ 	text-align: center;
+ 	font-weight: normal;
+ } 
+.main-table {
+ 	background-color: rgb(255, 255, 255);
+ 	width: 1000px;
+ 	box-shadow: 0 0 5px 1px;
+ 	
+ 	vertical-align: bottom;
+ 	:border-radius: 8px 8px 0 0;
+ 	:-moz-border-radius: 8px;
+ 	
+ }
+ .down-line {
+ 	width: 892px;
+ 	color: #5876a7;
+ }
+ .down-line-cell {
+ 	height: 18px;
+ }
+ .height-menu-cell {
+ 	height: 250px;
+ }
+ .otstup-contact {
+ 	margin-left: 30px;
+ }
