@@ -19,8 +19,8 @@
   color: #000000;
   font-family: 'Times New Roman', Times, serif;
   font-weight: normal;
-  margin-left: 15px;
-  margin-right: 15px;
+  margin-left: 3%;
+  /*margin-right: 2%;*/
 }
 .menu:hover {
   background: #ffffff;
@@ -37,10 +37,50 @@
   background-color: #ffffff;
   border-style: double;
   border-color: #17093d;
-  padding: 5px 5px 5px 30px;
+  padding: 1% 0% 1% 5%;
 }
 .site-fon {
+  background-image: url(../img/bcg.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.site-fon1 {
   background-image: url(../img/bcg1.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.site-fon2 {
+  background-image: url(../img/bcg2.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.site-fon3 {
+  background-image: url(../img/bcg3.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.site-fon4 {
+  background-image: url(../img/bcg4.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.site-fon5 {
+  background-image: url(../img/bcg5.jpg);
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -57,7 +97,7 @@
 .main-table {
   background-color: rgb(255, 255, 255);
   width: 900px;
-  height: 1200px;
+  height: 1350px;
   box-shadow: 0 0 50px 1px;
 
   vertical-align: bottom;
